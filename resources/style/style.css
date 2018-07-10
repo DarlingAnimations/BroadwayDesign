@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: Helvectica, sans-serif;
+  color: black;
+}
+
+.header {
+  background: url("C:/Users/rudyd/Documents/CODE_Projects/practice/broadway_design/resources/style/the-flatiron-building.png");
+  color: white;
+}
+
+.footer {
+  background-color: dimgrey;
+  text-align: left;
+  color: white;
+  font-size: 11px;
+}
